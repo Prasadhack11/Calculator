@@ -1,5 +1,9 @@
 
 
+
+body {
+    background-color: bisque;
+  }
         #equals{
             background-color: rgb(136, 244, 244);
         }
@@ -24,7 +28,7 @@
 
 .calc{ 
    box-shadow:5px 5px 3px grey, -5px -5px 3px white;
-     background:rgb(200,200,200);
+     background:rgb(155, 64, 171);
      padding:10px;
      border-radius:20px; 
      display:inline-block ;
